@@ -1,0 +1,322 @@
+body{
+	background-color: midnightblue;
+}
+
+#container{
+   display: grid;
+   gap: 2rem;
+   grid-template-columns: 1fr 1fr;
+}
+
+#Title{
+   font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 150px;
+  color: orange;
+  text-shadow: rgba(255,165,0,1) 0px 0px 20px;
+}
+
+#VA{
+   font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 125px;
+  color: orange;
+  text-shadow: rgba(255,165,0,1) 0px 0px 20px;
+}
+
+#ABC{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 80px;
+  color: fuchsia;
+  text-shadow: rgba(255,0,255,1) 0px 0px 20px;
+}
+
+#Num{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 80px;
+  color: deeppink;
+  text-shadow: rgba(255,20,147,1) 0px 0px 20px;
+}
+
+#Bio{
+    font-family: sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  color: yellow;
+}
+
+#rec1{
+   width: 300px;
+   height: 650px;
+   background-color: black;
+   position: absolute;
+   bottom: -1500px; left: 0px;
+}
+#rec1:hover{
+   background-color: yellow;
+}
+
+#rec2{
+   width: 400px;
+   height: 400px;
+   background-color:black;
+   position: absolute;
+   bottom: -1500px; left: 300px;
+}
+#rec2:hover{
+   background-color: yellow;
+}
+
+#rec3{
+   width: 350px;
+   height: 450px;
+   background-color:black;
+   position: absolute;
+   bottom: -1500px; left: 700px;
+}
+#rec3:hover{
+   background-color: yellow;
+}
+
+#rec4{
+   width: 250px;
+   height: 400px;
+   background-color:black;
+   position: absolute;
+   bottom: -1500px; left: 1050px;
+}
+#rec4:hover{
+   background-color: yellow;
+}
+
+#rec5{
+   width: 400px;
+   height: 650px;
+   background-color:black;
+   position: absolute;
+   bottom: -1500px; left: 1300px;
+}
+#rec5:hover{
+   background-color: yellow;
+}
+
+#rec6{
+   width: 320px;
+   height: 500px;
+   background-color:black;
+   position: absolute;
+   bottom: -1500px; left: 1700px;
+}
+#rec6:hover{
+   background-color: yellow;
+}
+
+#rec17{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 720px; left: 0px;
+}
+#rec17:hover{
+   background-color: orange;
+}
+
+#rec18{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 700px; left: 0px;
+}
+#rec18:hover{
+   background-color: orange;
+}
+
+#rec19{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 680px; left: 0px;
+}
+#rec19:hover{
+   background-color: orange;
+}
+
+#rec20{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 660px; left: 0px;
+}
+#rec20:hover{
+   background-color: orange;
+}
+
+#rec21{
+   width: 95px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 640px; left: 0px;
+}
+#rec21:hover{
+   background-color: orange;
+}
+
+#rec22{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 620px; left: 0px;
+}
+#rec22:hover{
+   background-color: orange;
+}
+
+#rec23{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 600px; left: 0px;
+}
+#rec23:hover{
+   background-color: orange;
+}
+
+#rec24{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 280px; left: 0px;
+}
+#rec24:hover{
+   background-color: orange;
+}
+
+#rec25{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 260px; left: 0px;
+}
+#rec25:hover{
+   background-color: orange;
+}
+
+#rec26{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 240px; left: 0px;
+}
+#rec26:hover{
+   background-color: orange;
+}
+
+#rec27{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 220px; left: 0px;
+}
+#rec27:hover{
+   background-color: orange;
+}
+
+#rec28{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 200px; left: 0px;
+}
+#rec28:hover{
+   background-color: orange;
+}
+
+#rec29{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 180px; left: 0px;
+}
+#rec29:hover{
+   background-color: orange;
+}
+
+#rec30{
+   width: 950px;
+   height: 20px;
+   background-color: midnightblue;
+   position: absolute;
+   bottom: 160px; left: 0px;
+}
+#rec30:hover{
+   background-color: orange;
+}
+
+#IN{
+  font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 120px;
+  color: black;
+  position: absolute;
+  bottom: -1620px; left: 150px;
+  padding: 0px;
+}
+
+#EST{
+  font-family: "Monoton", sans-serif;
+  font-weight: 100px;
+  font-style: normal;
+  font-size: 200px;
+  color: midnightblue;
+  position: absolute;
+  bottom: 100px;
+}
+#EST:hover{
+   background-color: orange;
+}
+
+#GG{
+   width: 400px;
+   position: absolute; right: 400px; bottom: -400px;
+}
+
+#link{
+   font-family: sans-serif;
+  font-weight: 100px;
+  font-style: normal;
+  font-size: 50px;
+  color: midnightblue;
+}
+#link:hover{
+   color: yellow;
+}
+ #glyph{
+   z-index: 1;
+   width: 75px;
+   position: absolute; left: 1450px; bottom:-1100px;
+ }
+ #glyph:hover{
+   background-color: yellow;
+ }
+
+ #Cover{
+    font-family: sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  color: yellow;
+ }

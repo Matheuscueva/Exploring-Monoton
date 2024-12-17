@@ -1,0 +1,46 @@
+body{
+	background-color: black;
+}
+
+#M1{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 100px;
+  color: white;
+}
+
+#M2{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 200px;
+  color: white;
+}
+
+#M3{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 300px;
+  color: white;
+}
+
+#M4{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 400px;
+  color: white;
+}
+
+#M5{
+	font-family: "Monoton", sans-serif;
+  font-style: normal;
+  font-size: 500px;
+  color: white;
+}
+
+#glyph{
+    width: 100px;
+    position: absolute; bottom: -5600px; left: 750px;
+}
+#glyph:hover {
+    width: 500px;
+}
